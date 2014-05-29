@@ -1,0 +1,35 @@
+7/03/2014 16:11:13.408 IOR—R1200—0—36E3 IOR 305 11 R—Channel RX 0x62 — Acknowledge User Data (R—channel) 84 14860
+7/03/2014 16:27:59.407 IOR—R1200—0—36E3 IOR 305 11 R—Channel RX 0x22 — Access Request (R/T—Channel) 88 14920
+7/03/2014 16:27:59.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0x53 — Reservation Forthcoming (RFC)
+
+7/03/2014 16:28:01.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0x51 — T—Channel Assignment
+
+7/03/2014 16:28:10.641 IOR—T1200—0—36FA IOR 305 10 T—Channel RX 0x71 — User Data (ISU) — RLS 87 9920
+7/03/2014 16:28:10.801 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 87 9920
+7/03/2014 16:28:10.961 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:11.142 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:11.281 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:11.479 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:11.601 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:11.761 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:11.952 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:12.081 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:12.258 IOR—T1200—0—36FA IOR 305 10 T—Channel RX Subsequent Signalling Unit 88 9920
+7/03/2014 16:28:12.906 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0x62 — Acknowledge User Data
+
+7/03/2014 16:28:13.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0x71 — User Data (ISU) — RLS
+
+7/03/2014 16:28:13.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+
+7/03/2014 16:28:13.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+
+7/03/2014 16:28:13.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+
+7/03/2014 16:28:15.909 IOR—R1200—0—36E3 IOR 305 11 R—Channel RX 0x62 — Acknowledge User Data (R—channel) 85 14860
+7/03/2014 16:29:17.407 IOR—R1200—0—36E3 IOR 305 11 R—Channel RX 0x22 — Access Request (R/T—Channel) 95 14860
+7/03/2014 16:29:17.905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0x51 — T—Channel Assignment
+
+7/03/2014 16:29:21.748 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX 0x71 — User Data (ISU) — RLS 99 9940
+7/03/2014 16:29:21.908 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:22.068 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+

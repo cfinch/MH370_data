@@ -1,0 +1,37 @@
+7/03/2014 18:39:56.860 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:56.982 IOR—3730—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:56.999 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:57.008 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:57.024 IOR—373E—21000 IOR 305 6 C—Channel RX 0x30 — Call Progress — Test 89
+7/03/2014 18:39:57.167 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:57.199 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:57.247 IOR—373E—21000 IOR 305 6 C—Channel RX 0x30 — Call Progress — Test 89
+7/03/2014 18:39:57.360 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:57.360 IOR—373E—21000 IOR 305 6 C—Channel RX 0x30 — Call Progress — Test 88
+7/03/2014 18:39:57.360 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:57.499 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 88
+7/03/2014 18:39:57.508 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:57.548 IOR—373E—21000 IOR 305 6 C—Channel RX 0x30 — Call Progress — Test 88
+7/03/2014 18:39:57.697 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:57.702 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Test
+
+7/03/2014 18:39:57.747 IOR—373E—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 88
+7/03/2014 18:39:57.854 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 88
+7/03/2014 18:39:57.859 IOR—373E—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:57.860 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Channel Release
+
+7/03/2014 18:39:58.013 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:58.013 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Channel Release
+
+7/03/2014 18:39:58.057 IOR—373E—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 88
+7/03/2014 18:39:58.191 IOR—3730—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 89
+7/03/2014 18:39:58.198 IOR—373E—21000 IOR 305 6 C—Channel TX 0x30 — Call Progress — Channel Release
+
+7/03/2014 18:39:58.214 IOR—373E—21000 IOR 305 6 C—Channel RX 0x60 — Telephony Acknowledge 88
+

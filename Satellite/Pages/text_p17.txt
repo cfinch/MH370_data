@@ -1,0 +1,27 @@
+7/03/2014 16:29:22.228 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:22.388 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:22.570 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:22.708 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 100 9940
+7/03/2014 16:29:22.895 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 100 9940
+7/03/2014 16:29:23.028 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:23.197 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:23.348 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:23.508 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:23.668 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:23.829 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+7/03/2014 16:29:23.988 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:24.029 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:25.760 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 100 9940
+7/03/2014 16:29:25.909 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 100 9940
+7/03/2014 16:29:26.081 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:26.251 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:26.388 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:26.548 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:26.745 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:26.868 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:27.028 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:27.188 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 98 9940
+7/03/2014 16:29:27.349 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 100 9940
+7/03/2014 16:29:27.508 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 100 9940
+7/03/2014 16:29:27.668 IOR—T1200—0—36D7 IOR 305 8 T—Channel RX Subsequent Signalling Unit 99 9940
+

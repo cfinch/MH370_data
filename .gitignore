@@ -1,0 +1,8 @@
+*.png
+*.tiff
+*.jpg
+*.jpeg
+~*
+*.swp
+*.pyc
+

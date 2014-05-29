@@ -1,0 +1,26 @@
+7/03/2014 17:07:45905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0x62 — Acknowledge User Data
+7/03/2014 17:07:45905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0X71 — User Data (ISU) — RLS
+7/03/2014 17:07:45905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 17:07:45905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 17:07:45905 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 17:07:48907 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x62 — Acknowledge User Data (R—channel) 131 15620
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX 0X71 — User Data (ISU) — RLS
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+7/03/2014 18:03:41405 IOR—P10500—0—3859 IOR 305 10 P—Channel TX Subsequent Signalling Unit
+

@@ -1,0 +1,15 @@
+7/03/2014 23:15:01ng IOR—3737—21000 IOR 305 6 C—Channel RX 0x30 — CaII Progress — Channel Release 219
+8/03/2014 00:10:53000 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+8/03/2014 00:10:59928 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x15 — Log—on/Log—off Acknowledge 252 18040
+8/03/2014 00:19:29.416 IOR—R600—0—36F8 IOR 305 10 R—Channel RX 23:3)" Log'O” Request (ISU)/Logo“ Flight Information 182 23000
+8/03/2014 00:19:31572 IOR—P600—0—36FC IOR 305 10 P—Channel TX 0x11 — Log—on Confirm
+8/03/2014 00:19:31le IOR—P600—0—36FC IOR 305 10 P—Channel TX 0x40 — P—/R—Channe| Control (ISU)
+8/03/2014 00:19:31le IOR—P600—0—36FC IOR 305 10 P—Channel TX Subsequent Signalling Unit
+8/03/2014 00:19:32352 IOR—P600—0—36FC IOR 305 10 P—Channel TX 0x41 — T—Channel Control (ISU)
+8/03/2014 00:19:32352 IOR—P600—0—36FC IOR 305 10 P—Channel TX Subsequent Signalling Unit
+8/03/2014 00:19:37443 IOR—R1200—0—36F6 IOR 305 10 R—Channel RX 0x15 — Log—on/Log—off Acknowledge —2 49660
+8/03/2014 00:19:33407 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x15 — Log—on/Log—off Acknowledge
+8/03/2014 01:15:55000 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+8/03/2014 01:15:05000 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+8/03/2014 01:15:15000 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+

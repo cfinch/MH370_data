@@ -1,0 +1,36 @@
+7/03/2014 18:28:14904 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x62 — Acknowledge User Data (R—channel) 143 12480
+
+7/03/2014 183952907 IOR—P10500—0—386B IOR 301 10 P—Channel TX 0x20 — Access Request/Call Announcement Telephone/Circuit—Mode Data
+
+7/03/2014 18:39:51907 IOR—P10500—0—386B IOR 301 10 P—Channel TX 0x33 — C—Channel Assignment (Regularity)
+
+7/03/2014 183952907 IOR—P10500—0—386B IOR 301 10 P—Channel TX 0x20 — Access Request/Call Announcement Telephone/Circuit—Mode Data
+
+7/03/2014 18:39:51907 IOR—P10500—0—386B IOR 301 10 P—Channel TX 0x33 — C—Channel Assignment (Regularity)
+
+7/03/2014 18:39:55354 IOR—3730—21000 IOR 305 6 C—Channel RX 0x30 — Call Progress — Test 88
+
+7/03/2014 18:40:55354 IOR—3730—21000 IOR 305 6 C—Channel RX 0x30 — Call Progress — Channel Release 90
+
+7/03/2014 19:41:00910 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+
+7/03/2014 19:41:02905 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x15 — Log—on/Log—off Acknowledge 111 11500
+
+7/03/2014 20:41:02907 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+
+7/03/2014 20:41:04904 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x15 — Log—on/Log—off Acknowledge 141 11740
+
+7/03/2014 21:41:24907 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+
+7/03/2014 21:41:25905 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x15 — Log—on/Log—off Acknowledge 168 12780
+
+7/03/2014 22:41:19907 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x14 — Log Control — Log—on Interrogation
+
+7/03/2014 22:41:21905 IOR—R1200—0—36ED IOR 305 4 R—Channel RX 0x15 — Log—on/Log—off Acknowledge 204 14540
+
+7/03/2014 23:13:53407 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0x20 — Access Request/Call Announcement Telephone/Circuit—Mode Data
+
+7/03/2014 23:13:53407 IOR—P10500—0—386B IOR 305 10 P—Channel TX 0X33 — C—Channel Assignment (Regularity)
+
+7/03/2014 23:14:00904 IOR—3737—21000 IOR 305 5 C—Channel RX 0x30 — Call Progress — Test 216
+
