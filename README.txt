@@ -16,12 +16,9 @@ The OCR software (tesseract) had some problems recognizing periods and colons
 in the time stamps for the in-flight data. For some reason, the pre-flight data
 and the Appendices did not have this issue.
 
-I have not attempted to correct any errors in the PDF. The PDF contains
-at least one error. On page 41, the date flips from 7/03/2014 to 8/03/2014 at
-midnight. The author probably intended for the date to flip to 7/04/2014.
-
 NOTES
-I split the first column (Time) into separate columns for Date and Time
+I split the first column (Time) into separate columns for Date and Time. Note
+that the date format is day/month/year.
 
 EXTRACTION PROCESS
 Convert a multi-page PDF to a series of images:
